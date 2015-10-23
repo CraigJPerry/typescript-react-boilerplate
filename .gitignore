@@ -1,2 +1,7 @@
-node_modules
-lib/*.js
+bower_components/
+**/*.js
+**/*.js.map
+typings/
+!typings/.gitkeep
+.vscode/
+TODO

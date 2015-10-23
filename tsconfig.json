@@ -1,6 +1,12 @@
 {
+    "files": [
+        "js/app.tsx",
+        "typings/tsd.d.ts"
+    ],
     "compilerOptions": {
+        "jsx": "react",
         "target": "es5",
+        "module": "amd",
         "sourceMap":  true
     }
 }

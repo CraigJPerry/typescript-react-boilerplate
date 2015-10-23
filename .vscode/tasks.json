@@ -2,7 +2,7 @@
 	"version": "0.1.0",
 	"isShellCommand": true,
 	"command": "tsc",
-	"args": ["--jsx", "react", "--outDir", "lib/", "--watch", "src/index.tsx"],
+	"args": ["--watch"],
 	"isWatching": true,
 	"showOutput": "silent",
 	"problemMatcher": "$tsc"

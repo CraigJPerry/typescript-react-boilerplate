@@ -1,0 +1,22 @@
+{
+  "name": "typescript-react-boilerplate",
+  "main": "lib/index.js",
+  "authors": [
+    "Craig J Perry"
+  ],
+  "license": "Apache 2",
+  "homepage": "https://github.com/CraigJPerry/typescript-react-boilerplate",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.0",
+    "jquery": "~2.1.4"
+  }
+}

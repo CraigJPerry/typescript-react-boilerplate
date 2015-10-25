@@ -1,5 +1,3 @@
-import React = require("react")
-
 interface RepoProps extends React.Props<any> {
     name: string;
     url: string;
@@ -21,4 +19,3 @@ $.ajax(settings).then((data) => {
     let target = document.getElementById('output');
     React.render(content, target);
 });
-
